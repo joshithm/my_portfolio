@@ -5,7 +5,7 @@ This repository contains my personal portfolio website, developed to showcase my
 ## Live Website
 
 🌐 **Portfolio:**
-https://mjoshith.github.io/my-portfolio/
+https://joshithm.github.io/my_portfolio/
 
 ## Technologies Used
 
